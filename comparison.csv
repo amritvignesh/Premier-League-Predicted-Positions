@@ -1,0 +1,401 @@
+season,player,actual_pos,pred_pos,pred,act
+2023,Gabriel Dos Santos,Centre-Back,Centre-Back,CB,CB
+2023,Bukayo Saka,Right Winger,Left Winger,LW,RW
+2023,Ben White,Right-Back,Right-Back,RB,RB
+2023,Granit Xhaka,Defensive Midfield,Attacking Midfield,AM,DM
+2023,Martin Ødegaard,Attacking Midfield,Attacking Midfield,AM,AM
+2023,Gabriel Martinelli,Left Winger,Left Winger,LW,LW
+2023,Thomas Partey,Defensive Midfield,Defensive Midfield,DM,DM
+2023,Eddie Nketiah,Centre-Forward,Centre-Forward,CF,CF
+2023,William Saliba,Centre-Back,Centre-Back,CB,CB
+2023,Kieran Tierney,Left-Back,Central Midfield,CM,LB
+2023,Emi Buendía,Right Winger,Attacking Midfield,AM,RW
+2023,Ezri Konsa,Centre-Back,Centre-Back,CB,CB
+2023,Douglas Luiz,Central Midfield,Central Midfield,CM,CM
+2023,Ollie Watkins,Centre-Forward,Centre-Forward,CF,CF
+2023,Tyrone Mings,Centre-Back,Centre-Back,CB,CB
+2023,Jacob Ramsey,Central Midfield,Right Winger,RW,CM
+2023,John McGinn,Central Midfield,Central Midfield,CM,CM
+2023,Leon Bailey,Left Winger,Left Winger,LW,LW
+2023,Ashley Young,Left-Back,Defensive Midfield,DM,LB
+2023,Lucas Digne,Left-Back,Right-Back,RB,LB
+2023,Jefferson Lerma,Defensive Midfield,Defensive Midfield,DM,DM
+2023,Adam Smith,Right-Back,Right-Back,RB,RB
+2023,Philip Billing,Central Midfield,Central Midfield,CM,CM
+2023,Dominic Solanke,Centre-Forward,Centre-Forward,CF,CF
+2023,Ryan Christie,Attacking Midfield,Central Midfield,CM,AM
+2023,Marcos Senesi,Centre-Back,Centre-Back,CB,CB
+2023,Jaidon Anthony,Left Winger,Left Winger,LW,LW
+2023,Lewis Cook,Central Midfield,Central Midfield,CM,CM
+2023,Kieffer Moore,Centre-Forward,Centre-Forward,CF,CF
+2023,Chris Mepham,Centre-Back,Centre-Back,CB,CB
+2023,Bryan Mbeumo,Right Winger,Right Winger,RW,RW
+2023,Yoane Wissa,Left Winger,Centre-Forward,CF,LW
+2023,Rico Henry,Left-Back,Right-Back,RB,LB
+2023,Mathias Jensen,Central Midfield,Central Midfield,CM,CM
+2023,Ben Mee,Centre-Back,Centre-Back,CB,CB
+2023,Josh Dasilva,Central Midfield,Right Winger,RW,CM
+2023,Vitaly Janelt,Defensive Midfield,Defensive Midfield,DM,DM
+2023,Ivan Toney,Centre-Forward,Centre-Forward,CF,CF
+2023,Ethan Pinnock,Centre-Back,Centre-Back,CB,CB
+2023,Mikkel Damsgaard,Left Winger,Centre-Forward,CF,LW
+2023,Moisés Caicedo,Defensive Midfield,Central Midfield,CM,DM
+2023,Pascal Groß,Central Midfield,Attacking Midfield,AM,CM
+2023,Lewis Dunk,Centre-Back,Centre-Back,CB,CB
+2023,Pervis Estupiñán,Left-Back,Left-Back,LB,LB
+2023,Alexis Mac Allister,Central Midfield,Central Midfield,CM,CM
+2023,Solly March,Right Winger,Right Winger,RW,RW
+2023,Kaoru Mitoma,Left Winger,Left Winger,LW,LW
+2023,Joël Veltman,Right-Back,Central Midfield,CM,RB
+2023,Danny Welbeck,Centre-Forward,Centre-Forward,CF,CF
+2023,Adam Webster,Centre-Back,Centre-Back,CB,CB
+2023,Conor Gallagher,Central Midfield,Central Midfield,CM,CM
+2023,Kai Havertz,Attacking Midfield,Centre-Forward,CF,AM
+2023,Raheem Sterling,Left Winger,Left Winger,LW,LW
+2023,Mateo Kovačić,Central Midfield,Central Midfield,CM,CM
+2023,Thiago Silva,Centre-Back,Centre-Back,CB,CB
+2023,César Azpilicueta,Right-Back,Right-Back,RB,RB
+2023,Trevoh Chalobah,Centre-Back,Centre-Back,CB,CB
+2023,Ruben Loftus-Cheek,Central Midfield,Central Midfield,CM,CM
+2023,Marc Cucurella,Left-Back,Right-Back,RB,LB
+2023,Mason Mount,Attacking Midfield,Central Midfield,CM,AM
+2023,Jordan Ayew,Centre-Forward,Centre-Forward,CF,CF
+2023,Eberechi Eze,Attacking Midfield,Attacking Midfield,AM,AM
+2023,Marc Guéhi,Centre-Back,Centre-Back,CB,CB
+2023,Michael Olise,Right Winger,Right Winger,RW,RW
+2023,Tyrick Mitchell,Left-Back,Right-Back,RB,LB
+2023,Odsonne Édouard,Centre-Forward,Centre-Forward,CF,CF
+2023,Cheick Doucouré,Defensive Midfield,Defensive Midfield,DM,DM
+2023,Jeffrey Schlupp,Left Midfield,Central Midfield,CM,LM
+2023,Joachim Andersen,Centre-Back,Centre-Back,CB,CB
+2023,Jean-Philippe Mateta,Centre-Forward,Centre-Forward,CF,CF
+2023,Alex Iwobi,Attacking Midfield,Right Winger,RW,AM
+2023,James Tarkowski,Centre-Back,Centre-Back,CB,CB
+2023,Dwight McNeil,Left Winger,Right Winger,RW,LW
+2023,Vitaliy Mykolenko,Left-Back,Right-Back,RB,LB
+2023,Idrissa Gana Gueye,Central Midfield,Defensive Midfield,DM,CM
+2023,Demarai Gray,Left Winger,Left Winger,LW,LW
+2023,Amadou Onana,Defensive Midfield,Central Midfield,CM,DM
+2023,Neal Maupay,Centre-Forward,Centre-Forward,CF,CF
+2023,Abdoulaye Doucouré,Central Midfield,Centre-Forward,CF,CM
+2023,Conor Coady,Centre-Back,Centre-Back,CB,CB
+2023,Harrison Reed,Central Midfield,Central Midfield,CM,CM
+2023,Bobby Reid,Attacking Midfield,Attacking Midfield,AM,AM
+2023,João Palhinha,Defensive Midfield,Centre-Back,CB,DM
+2023,Antonee Robinson,Left-Back,Right-Back,RB,LB
+2023,Tom Cairney,Central Midfield,Central Midfield,CM,CM
+2023,Andreas Pereira,Attacking Midfield,Attacking Midfield,AM,AM
+2023,Tim Ream,Centre-Back,Centre-Back,CB,CB
+2023,Kenny Tete,Right-Back,Right-Back,RB,RB
+2023,Harry Wilson,Right Winger,Centre-Forward,CF,RW
+2023,Carlos Vinícius,Centre-Forward,Centre-Forward,CF,CF
+2023,Brenden Aaronson,Attacking Midfield,Right Winger,RW,AM
+2023,Jack Harrison,Right Winger,Right Winger,RW,RW
+2023,Robin Koch,Centre-Back,Centre-Back,CB,CB
+2023,Marc Roca,Defensive Midfield,Central Midfield,CM,DM
+2023,Rodrigo,Centre-Forward,Centre-Forward,CF,CF
+2023,Luke Ayling,Right-Back,Right-Back,RB,RB
+2023,Pascal Struijk,Centre-Back,Central Midfield,CM,CB
+2023,Patrick Bamford,Centre-Forward,Centre-Forward,CF,CF
+2023,Crysencio Summerville,Right Winger,Left Winger,LW,RW
+2023,Rasmus Nissen,Right-Back,Right-Back,RB,RB
+2023,Timothy Castagne,Right-Back,Right-Back,RB,RB
+2023,Jamie Vardy,Centre-Forward,Centre-Forward,CF,CF
+2023,Harvey Barnes,Left Winger,Centre-Forward,CF,LW
+2023,Kiernan Dewsbury-Hall,Central Midfield,Central Midfield,CM,CM
+2023,Wout Faes,Centre-Back,Centre-Back,CB,CB
+2023,Youri Tielemans,Central Midfield,Central Midfield,CM,CM
+2023,Patson Daka,Centre-Forward,Centre-Forward,CF,CF
+2023,James Maddison,Attacking Midfield,Attacking Midfield,AM,AM
+2023,Kelechi Iheanacho,Centre-Forward,Centre-Forward,CF,CF
+2023,Wilfred Ndidi,Defensive Midfield,Defensive Midfield,DM,DM
+2023,Mohamed Salah,Right Winger,Right Winger,RW,RW
+2023,Trent Alexander-Arnold,Right-Back,Central Midfield,CM,RB
+2023,Fabinho,Defensive Midfield,Defensive Midfield,DM,DM
+2023,Jordan Henderson,Central Midfield,Central Midfield,CM,CM
+2023,Andrew Robertson,Left-Back,Left-Back,LB,LB
+2023,Harvey Elliott,Attacking Midfield,Central Midfield,CM,AM
+2023,Virgil van Dijk,Centre-Back,Centre-Back,CB,CB
+2023,James Milner,Central Midfield,Central Midfield,CM,CM
+2023,Darwin Núñez,Centre-Forward,Centre-Forward,CF,CF
+2023,Roberto Firmino,Centre-Forward,Centre-Forward,CF,CF
+2023,Rodri,Defensive Midfield,Defensive Midfield,DM,DM
+2023,Erling Haaland,Centre-Forward,Centre-Forward,CF,CF
+2023,Bernardo Silva,Attacking Midfield,Attacking Midfield,AM,AM
+2023,Kevin De Bruyne,Attacking Midfield,Attacking Midfield,AM,AM
+2023,Phil Foden,Right Winger,Right Winger,RW,RW
+2023,Julián Álvarez,Second Striker,Centre-Forward,CF,SS
+2023,İlkay Gündoğan,Central Midfield,Central Midfield,CM,CM
+2023,Riyad Mahrez,Right Winger,Right Winger,RW,RW
+2023,Manuel Akanji,Centre-Back,Centre-Back,CB,CB
+2023,Jack Grealish,Left Winger,Left Winger,LW,LW
+2023,Bruno Fernandes,Attacking Midfield,Attacking Midfield,AM,AM
+2023,Fred,Central Midfield,Central Midfield,CM,CM
+2023,Marcus Rashford,Left Winger,Centre-Forward,CF,LW
+2023,Luke Shaw,Left-Back,Left-Back,LB,LB
+2023,Casemiro,Defensive Midfield,Central Midfield,CM,DM
+2023,Christian Eriksen,Central Midfield,Central Midfield,CM,CM
+2023,Lisandro Martínez,Centre-Back,Centre-Back,CB,CB
+2023,Diogo Dalot,Right-Back,Right-Back,RB,RB
+2023,Jadon Sancho,Left Winger,Left Winger,LW,LW
+2023,Antony,Right Winger,Left Winger,LW,RW
+2023,Dan Burn,Left-Back,Defensive Midfield,DM,LB
+2023,Kieran Trippier,Right-Back,Right-Back,RB,RB
+2023,Sven Botman,Centre-Back,Centre-Back,CB,CB
+2023,Jacob Murphy,Right Winger,Left Winger,LW,RW
+2023,Fabian Schär,Centre-Back,Defensive Midfield,DM,CB
+2023,Joe Willock,Central Midfield,Right Winger,RW,CM
+2023,Miguel Almirón,Right Winger,Left Winger,LW,RW
+2023,Sean Longstaff,Central Midfield,Central Midfield,CM,CM
+2023,Bruno Guimarães,Defensive Midfield,Central Midfield,CM,DM
+2023,Joelinton,Central Midfield,Central Midfield,CM,CM
+2023,Brennan Johnson,Right Winger,Left Winger,LW,RW
+2023,Morgan Gibbs-White,Attacking Midfield,Attacking Midfield,AM,AM
+2023,Neco Williams,Right-Back,Central Midfield,CM,RB
+2023,Joe Worrall,Centre-Back,Centre-Back,CB,CB
+2023,Remo Freuler,Central Midfield,Defensive Midfield,DM,CM
+2023,Renan Lodi,Left-Back,Right-Back,RB,LB
+2023,Taiwo Awoniyi,Centre-Forward,Centre-Forward,CF,CF
+2023,Orel Mangala,Central Midfield,Defensive Midfield,DM,CM
+2023,Ryan Yates,Central Midfield,Defensive Midfield,DM,CM
+2023,Serge Aurier,Right-Back,Right-Back,RB,RB
+2023,James Ward-Prowse,Central Midfield,Central Midfield,CM,CM
+2023,Mohamed Elyounoussi,Left Winger,Right Winger,RW,LW
+2023,Stuart Armstrong,Central Midfield,Right Winger,RW,CM
+2023,Kyle Walker-Peters,Right-Back,Right-Back,RB,RB
+2023,Adam Armstrong,Centre-Forward,Centre-Forward,CF,CF
+2023,Roméo Lavia,Defensive Midfield,Defensive Midfield,DM,DM
+2023,Romain Perraud,Left-Back,Central Midfield,CM,LB
+2023,Che Adams,Centre-Forward,Centre-Forward,CF,CF
+2023,Armel Bella Kotchap,Centre-Back,Centre-Back,CB,CB
+2023,Ainsley Maitland-Niles,Right Midfield,Central Midfield,CM,RM
+2023,Harry Kane,Centre-Forward,Centre-Forward,CF,CF
+2023,Son Heung-min,Left Winger,Right Winger,RW,LW
+2023,Pierre Højbjerg,Defensive Midfield,Central Midfield,CM,DM
+2023,Ivan Perišić,Left Midfield,Right Winger,RW,LM
+2023,Eric Dier,Centre-Back,Centre-Back,CB,CB
+2023,Ben Davies,Left-Back,Left-Back,LB,LB
+2023,Dejan Kulusevski,Right Winger,Right Winger,RW,RW
+2023,Richarlison,Centre-Forward,Centre-Forward,CF,CF
+2023,Cristian Romero,Centre-Back,Centre-Back,CB,CB
+2023,Emerson,Right-Back,Central Midfield,CM,RB
+2023,Jarrod Bowen,Right Winger,Right Winger,RW,RW
+2023,Declan Rice,Defensive Midfield,Defensive Midfield,DM,DM
+2023,Tomáš Souček,Defensive Midfield,Central Midfield,CM,DM
+2023,Saïd Benrahma,Left Winger,Left Winger,LW,LW
+2023,Michail Antonio,Centre-Forward,Centre-Forward,CF,CF
+2023,Pablo Fornals,Attacking Midfield,Central Midfield,CM,AM
+2023,Aaron Cresswell,Left-Back,Left-Back,LB,LB
+2023,Lucas Paquetá,Attacking Midfield,Central Midfield,CM,AM
+2023,Vladimír Coufal,Right-Back,Left-Back,LB,RB
+2023,Thilo Kehrer,Centre-Back,Centre-Back,CB,CB
+2023,Max Kilman,Centre-Back,Centre-Back,CB,CB
+2023,Nélson Semedo,Right-Back,Right-Back,RB,RB
+2023,Rúben Neves,Defensive Midfield,Defensive Midfield,DM,DM
+2023,Matheus Nunes,Central Midfield,Central Midfield,CM,CM
+2023,Adama Traoré,Right Winger,Left Winger,LW,RW
+2023,Daniel Podence,Right Winger,Centre-Forward,CF,RW
+2023,João Moutinho,Central Midfield,Central Midfield,CM,CM
+2023,Hwang Hee-chan,Centre-Forward,Centre-Forward,CF,CF
+2023,Nathan Collins,Centre-Back,Centre-Back,CB,CB
+2023,Diego Costa,Centre-Forward,Centre-Forward,CF,CF
+2024,Declan Rice,Defensive Midfield,Central Midfield,CM,DM
+2024,William Saliba,Centre-Back,Centre-Back,CB,CB
+2024,Kai Havertz,Attacking Midfield,Centre-Forward,CF,AM
+2024,Bukayo Saka,Right Winger,Right Winger,RW,RW
+2024,Ben White,Right-Back,Left-Back,LB,RB
+2024,Gabriel Dos Santos,Centre-Back,Centre-Back,CB,CB
+2024,Gabriel Martinelli,Left Winger,Left Winger,LW,LW
+2024,Eddie Nketiah,Centre-Forward,Centre-Forward,CF,CF
+2024,Martin Ødegaard,Attacking Midfield,Attacking Midfield,AM,AM
+2024,Leandro Trossard,Left Winger,Centre-Forward,CF,LW
+2024,Moussa Diaby,Right Winger,Centre-Forward,CF,RW
+2024,John McGinn,Central Midfield,Central Midfield,CM,CM
+2024,Ollie Watkins,Centre-Forward,Centre-Forward,CF,CF
+2024,Douglas Luiz,Central Midfield,Central Midfield,CM,CM
+2024,Leon Bailey,Left Winger,Left Winger,LW,LW
+2024,Matty Cash,Right-Back,Central Midfield,CM,RB
+2024,Ezri Konsa,Centre-Back,Centre-Back,CB,CB
+2024,Youri Tielemans,Central Midfield,Central Midfield,CM,CM
+2024,Lucas Digne,Left-Back,Central Midfield,CM,LB
+2024,Boubacar Kamara,Defensive Midfield,Defensive Midfield,DM,DM
+2024,Ryan Christie,Attacking Midfield,Central Midfield,CM,AM
+2024,Dominic Solanke,Centre-Forward,Centre-Forward,CF,CF
+2024,Illia Zabarnyi,Centre-Back,Centre-Back,CB,CB
+2024,Marcos Senesi,Centre-Back,Defensive Midfield,DM,CB
+2024,Marcus Tavernier,Left Winger,Right Winger,RW,LW
+2024,Antoine Semenyo,Right Winger,Centre-Forward,CF,RW
+2024,Philip Billing,Central Midfield,Centre-Forward,CF,CM
+2024,Lewis Cook,Central Midfield,Defensive Midfield,DM,CM
+2024,Justin Kluivert,Left Winger,Centre-Forward,CF,LW
+2024,Milos Kerkez,Left-Back,Right-Back,RB,LB
+2024,Vitaly Janelt,Defensive Midfield,Central Midfield,CM,DM
+2024,Christian Nørgaard,Defensive Midfield,Defensive Midfield,DM,DM
+2024,Ethan Pinnock,Centre-Back,Centre-Back,CB,CB
+2024,Mads Roerslev,Right-Back,Central Midfield,CM,RB
+2024,Yoane Wissa,Left Winger,Centre-Forward,CF,LW
+2024,Nathan Collins,Centre-Back,Centre-Back,CB,CB
+2024,Mathias Jensen,Central Midfield,Central Midfield,CM,CM
+2024,Neal Maupay,Centre-Forward,Centre-Forward,CF,CF
+2024,Keane Lewis-Potter,Left Winger,Centre-Forward,CF,LW
+2024,Frank Onyeka,Central Midfield,Centre-Forward,CF,CM
+2024,Evan Ferguson,Centre-Forward,Centre-Forward,CF,CF
+2024,Billy Gilmour,Defensive Midfield,Central Midfield,CM,DM
+2024,Pascal Groß,Central Midfield,Central Midfield,CM,CM
+2024,Lewis Dunk,Centre-Back,Centre-Back,CB,CB
+2024,João Pedro,Centre-Forward,Centre-Forward,CF,CF
+2024,Jan Paul van Hecke,Centre-Back,Centre-Back,CB,CB
+2024,Simon Adingra,Left Winger,Left Winger,LW,LW
+2024,Facundo Buonanotte,Attacking Midfield,Centre-Forward,CF,AM
+2024,Adam Lallana,Attacking Midfield,Centre-Forward,CF,AM
+2024,Kaoru Mitoma,Left Winger,Left Winger,LW,LW
+2024,Zeki Amdouni,Centre-Forward,Left Winger,LW,CF
+2024,Sander Berge,Defensive Midfield,Central Midfield,CM,DM
+2024,Josh Brownhill,Central Midfield,Central Midfield,CM,CM
+2024,Dara O'Shea,Centre-Back,Centre-Back,CB,CB
+2024,Jacob Bruun Larsen,Left Winger,Centre-Forward,CF,LW
+2024,Vitinho,Right-Back,Central Midfield,CM,RB
+2024,Jóhann Berg Guðmundsson,Right Winger,Centre-Forward,CF,RW
+2024,Charlie Taylor,Left-Back,Centre-Back,CB,LB
+2024,Wilson Odobert,Left Winger,Left Winger,LW,LW
+2024,Jay Rodriguez,Centre-Forward,Centre-Forward,CF,CF
+2024,Conor Gallagher,Central Midfield,Central Midfield,CM,CM
+2024,Axel Disasi,Centre-Back,Centre-Back,CB,CB
+2024,Raheem Sterling,Left Winger,Left Winger,LW,LW
+2024,Moisés Caicedo,Defensive Midfield,Defensive Midfield,DM,DM
+2024,Levi Colwill,Centre-Back,Centre-Back,CB,CB
+2024,Enzo Fernández,Central Midfield,Central Midfield,CM,CM
+2024,Nicolas Jackson,Centre-Forward,Centre-Forward,CF,CF
+2024,Thiago Silva,Centre-Back,Centre-Back,CB,CB
+2024,Cole Palmer,Attacking Midfield,Attacking Midfield,AM,AM
+2024,Mykhailo Mudryk,Left Winger,Left Winger,LW,LW
+2024,Joachim Andersen,Centre-Back,Centre-Back,CB,CB
+2024,Tyrick Mitchell,Left-Back,Right-Back,RB,LB
+2024,Jordan Ayew,Centre-Forward,Left Winger,LW,CF
+2024,Jean-Philippe Mateta,Centre-Forward,Centre-Forward,CF,CF
+2024,Marc Guéhi,Centre-Back,Centre-Back,CB,CB
+2024,Jefferson Lerma,Defensive Midfield,Central Midfield,CM,DM
+2024,Odsonne Édouard,Centre-Forward,Centre-Forward,CF,CF
+2024,Will Hughes,Central Midfield,Central Midfield,CM,CM
+2024,Jeffrey Schlupp,Left Midfield,Centre-Forward,CF,LM
+2024,Joel Ward,Right-Back,Centre-Back,CB,RB
+2024,James Tarkowski,Centre-Back,Centre-Back,CB,CB
+2024,James Garner,Defensive Midfield,Central Midfield,CM,DM
+2024,Jarrad Branthwaite,Centre-Back,Centre-Back,CB,CB
+2024,Dwight McNeil,Left Winger,Right Winger,RW,LW
+2024,Dominic Calvert-Lewin,Centre-Forward,Centre-Forward,CF,CF
+2024,Beto,Centre-Forward,Centre-Forward,CF,CF
+2024,Vitaliy Mykolenko,Left-Back,Defensive Midfield,DM,LB
+2024,Abdoulaye Doucouré,Central Midfield,Centre-Forward,CF,CM
+2024,Jack Harrison,Right Winger,Centre-Forward,CF,RW
+2024,Amadou Onana,Defensive Midfield,Central Midfield,CM,DM
+2024,Andreas Pereira,Attacking Midfield,Central Midfield,CM,AM
+2024,Antonee Robinson,Left-Back,Right-Back,RB,LB
+2024,Tom Cairney,Central Midfield,Central Midfield,CM,CM
+2024,Harry Wilson,Right Winger,Centre-Forward,CF,RW
+2024,Timothy Castagne,Right-Back,Right-Back,RB,RB
+2024,Bobby Reid,Attacking Midfield,Centre-Forward,CF,AM
+2024,João Palhinha,Defensive Midfield,Centre-Back,CB,DM
+2024,Willian,Left Winger,Central Midfield,CM,LW
+2024,Harrison Reed,Central Midfield,Central Midfield,CM,CM
+2024,Alex Iwobi,Attacking Midfield,Right Winger,RW,AM
+2024,Luis Díaz,Left Winger,Centre-Forward,CF,LW
+2024,Cody Gakpo,Left Winger,Centre-Forward,CF,LW
+2024,Darwin Núñez,Centre-Forward,Centre-Forward,CF,CF
+2024,Virgil van Dijk,Centre-Back,Centre-Back,CB,CB
+2024,Harvey Elliott,Attacking Midfield,Centre-Forward,CF,AM
+2024,Joe Gomez,Centre-Back,Central Midfield,CM,CB
+2024,Alexis Mac Allister,Central Midfield,Central Midfield,CM,CM
+2024,Dominik Szoboszlai,Central Midfield,Central Midfield,CM,CM
+2024,Trent Alexander-Arnold,Right-Back,Central Midfield,CM,RB
+2024,Mohamed Salah,Right Winger,Centre-Forward,CF,RW
+2024,Carlton Morris,Centre-Forward,Centre-Forward,CF,CF
+2024,Alfie Doughty,Left Midfield,Central Midfield,CM,LM
+2024,Chiedozie Ogbene,Right Winger,Left Winger,LW,RW
+2024,Elijah Adebayo,Centre-Forward,Centre-Forward,CF,CF
+2024,Ross Barkley,Central Midfield,Central Midfield,CM,CM
+2024,Amari'i Bell,Left-Back,Defensive Midfield,DM,LB
+2024,Tahith Chong,Attacking Midfield,Centre-Forward,CF,AM
+2024,Pelly Ruddock Mpanzu,Defensive Midfield,Centre-Forward,CF,DM
+2024,Jacob Brown,Centre-Forward,Centre-Forward,CF,CF
+2024,Teden Mengi,Centre-Back,Centre-Back,CB,CB
+2024,Julián Álvarez,Second Striker,Attacking Midfield,AM,SS
+2024,Phil Foden,Right Winger,Left Winger,LW,RW
+2024,Kyle Walker,Right-Back,Central Midfield,CM,RB
+2024,Rodri,Defensive Midfield,Defensive Midfield,DM,DM
+2024,Rúben Dias,Centre-Back,Centre-Back,CB,CB
+2024,Bernardo Silva,Attacking Midfield,Attacking Midfield,AM,AM
+2024,Nathan Aké,Centre-Back,Central Midfield,CM,CB
+2024,Erling Haaland,Centre-Forward,Centre-Forward,CF,CF
+2024,Manuel Akanji,Centre-Back,Defensive Midfield,DM,CB
+2024,Jeremy Doku,Left Winger,Left Winger,LW,LW
+2024,Bruno Fernandes,Attacking Midfield,Central Midfield,CM,AM
+2024,Marcus Rashford,Left Winger,Left Winger,LW,LW
+2024,Diogo Dalot,Right-Back,Right-Back,RB,RB
+2024,Alejandro Garnacho,Left Winger,Left Winger,LW,LW
+2024,Scott McTominay,Defensive Midfield,Centre-Forward,CF,DM
+2024,Antony,Right Winger,Left Winger,LW,RW
+2024,Rasmus Højlund,Centre-Forward,Centre-Forward,CF,CF
+2024,Raphaël Varane,Centre-Back,Centre-Back,CB,CB
+2024,Jonny Evans,Centre-Back,Centre-Back,CB,CB
+2024,Victor Lindelöf,Centre-Back,Central Midfield,CM,CB
+2024,Miguel Almirón,Right Winger,Right Winger,RW,RW
+2024,Fabian Schär,Centre-Back,Centre-Back,CB,CB
+2024,Anthony Gordon,Left Winger,Left Winger,LW,LW
+2024,Bruno Guimarães,Defensive Midfield,Central Midfield,CM,DM
+2024,Kieran Trippier,Right-Back,Central Midfield,CM,RB
+2024,Sean Longstaff,Central Midfield,Central Midfield,CM,CM
+2024,Dan Burn,Left-Back,Centre-Back,CB,LB
+2024,Valentino Livramento,Right-Back,Left Winger,LW,RB
+2024,Alexander Isak,Centre-Forward,Centre-Forward,CF,CF
+2024,Sven Botman,Centre-Back,Centre-Back,CB,CB
+2024,Anthony Elanga,Left Winger,Left Winger,LW,LW
+2024,Morgan Gibbs-White,Attacking Midfield,Right Winger,RW,AM
+2024,Ryan Yates,Central Midfield,Defensive Midfield,DM,CM
+2024,Murillo,Centre-Back,Centre-Back,CB,CB
+2024,Danilo,Central Midfield,Central Midfield,CM,CM
+2024,Orel Mangala,Central Midfield,Defensive Midfield,DM,CM
+2024,Chris Wood,Centre-Forward,Centre-Forward,CF,CF
+2024,Nicolás Domínguez,Central Midfield,Central Midfield,CM,CM
+2024,Callum Hudson-Odoi,Left Winger,Left Winger,LW,LW
+2024,Neco Williams,Right-Back,Central Midfield,CM,RB
+2024,Jack Robinson,Centre-Back,Centre-Back,CB,CB
+2024,Vinicius Souza,Defensive Midfield,Defensive Midfield,DM,DM
+2024,Gustavo Hamer,Defensive Midfield,Central Midfield,CM,DM
+2024,Jayden Bogle,Right-Back,Defensive Midfield,DM,RB
+2024,Oliver Norwood,Central Midfield,Central Midfield,CM,CM
+2024,Cameron Archer,Centre-Forward,Centre-Forward,CF,CF
+2024,James Mcatee,Central Midfield,Left Winger,LW,CM
+2024,Anel Ahmedhodžić,Centre-Back,Centre-Back,CB,CB
+2024,Auston Trusty,Centre-Back,Defensive Midfield,DM,CB
+2024,William Osula,Centre-Forward,Centre-Forward,CF,CF
+2024,Pierre Højbjerg,Defensive Midfield,Central Midfield,CM,DM
+2024,Dejan Kulusevski,Right Winger,Left Winger,LW,RW
+2024,Son Heung-min,Left Winger,Centre-Forward,CF,LW
+2024,Pedro Porro,Right-Back,Central Midfield,CM,RB
+2024,Pape Matar Sarr,Central Midfield,Central Midfield,CM,CM
+2024,Richarlison,Centre-Forward,Centre-Forward,CF,CF
+2024,Destiny Udogie,Left-Back,Central Midfield,CM,LB
+2024,Cristian Romero,Centre-Back,Centre-Back,CB,CB
+2024,Brennan Johnson,Right Winger,Centre-Forward,CF,RW
+2024,Yves Bissouma,Central Midfield,Defensive Midfield,DM,CM
+2024,Jarrod Bowen,Right Winger,Centre-Forward,CF,RW
+2024,Emerson Palmieri,Left-Back,Right-Back,RB,LB
+2024,Tomáš Souček,Defensive Midfield,Defensive Midfield,DM,DM
+2024,James Ward-Prowse,Central Midfield,Central Midfield,CM,CM
+2024,Vladimír Coufal,Right-Back,Left-Back,LB,RB
+2024,Edson Álvarez,Defensive Midfield,Defensive Midfield,DM,DM
+2024,Kurt Zouma,Centre-Back,Centre-Back,CB,CB
+2024,Kudus Mohammed,Attacking Midfield,Left Winger,LW,AM
+2024,Lucas Paquetá,Attacking Midfield,Central Midfield,CM,AM
+2024,Nayef Aguerd,Centre-Back,Centre-Back,CB,CB
+2024,Max Kilman,Centre-Back,Centre-Back,CB,CB
+2024,Nélson Semedo,Right-Back,Right-Back,RB,RB
+2024,Craig Dawson,Centre-Back,Centre-Back,CB,CB
+2024,Matheus Cunha,Centre-Forward,Left Winger,LW,CF
+2024,Toti Gomes,Centre-Back,Centre-Back,CB,CB
+2024,Mario Lemina,Defensive Midfield,Defensive Midfield,DM,DM
+2024,Rayan Aït Nouri,Left-Back,Central Midfield,CM,LB
+2024,João Gomes,Central Midfield,Central Midfield,CM,CM
+2024,Hwang Hee-chan,Centre-Forward,Centre-Forward,CF,CF
+2024,Matt Doherty,Right-Back,Centre-Forward,CF,RB
